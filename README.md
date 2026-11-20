@@ -2,4 +2,4 @@
 My first Git repo
 <br>
 
-Author: Kumuda Joshi
+Author: Kumuda Joshi ( QA Engineer)
